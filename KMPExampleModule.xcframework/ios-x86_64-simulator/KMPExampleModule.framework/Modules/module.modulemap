@@ -1,0 +1,6 @@
+framework module KMPExampleModule {
+    umbrella header "KMPExampleModule.h"
+
+    export *
+    module * { export * }
+}
